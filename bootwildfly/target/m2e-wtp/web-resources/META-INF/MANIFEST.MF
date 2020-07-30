@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: smile
+Build-Jdk: 14.0.2
+Implementation-Title: bootwildfly
+Implementation-Version: 1.0
+Implementation-Vendor-Id: bootwildfly
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
